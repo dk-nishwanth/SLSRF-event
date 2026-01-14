@@ -15,7 +15,7 @@ export const SPEAKERS = [
     name: 'Thiru. Jeyachandran Srinivasan',
     role: 'Founder & Chairman',
     company: 'Social Entrepreneur & Thought Leader',
-    image: '/components/assets/jc.png'
+    image: '/jc.png'
   }
 ];
 
